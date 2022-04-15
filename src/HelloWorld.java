@@ -7,5 +7,8 @@ public class HelloWorld {
         System.out.println("by kansas");
         System.out.println("123456");
 
+
+        System.out.println(" 2.37 kemi mbet");
+        System.out.println("ad astra per aspera");
     }
 }
