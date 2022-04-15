@@ -5,6 +5,7 @@ public class PracticeOne {
 
         System.out.println("stp1");
         System.out.println("step2");
+        System.out.println("step3");
 
     }
 }
